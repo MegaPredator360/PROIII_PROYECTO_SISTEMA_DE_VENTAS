@@ -1,0 +1,9 @@
+C:\Users\Aaron\source\repos\PROIII_PROYECTO1\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\PROIII_PROYECTO1\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\PROIII_PROYECTO1\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Aaron\source\repos\PROIII_PROYECTO1\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Aaron\source\repos\PROIII_PROYECTO1\CAPA_LOGICA\bin\Debug\CAPA_DATOS.dll
+C:\Users\Aaron\source\repos\PROIII_PROYECTO1\CAPA_LOGICA\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Aaron\source\repos\PROIII_PROYECTO1\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CopyComplete
+C:\Users\Aaron\source\repos\PROIII_PROYECTO1\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\Aaron\source\repos\PROIII_PROYECTO1\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
